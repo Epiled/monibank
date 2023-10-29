@@ -47,7 +47,7 @@
 <h2 id="demonstracao"> 👀 Demonstração </h2>
 
 <p>No link abaixo você pode ver a página no ar e rodar seus próprios testes</p>
-<p>MoniBank: <a href="epiled.github.io/monibank/">epiled.github.io/monibank/</a></p>
+<p>MoniBank: <a href="https://epiled.github.io/monibank/">epiled.github.io/monibank/</a></p>
 
 ![monibank_desktop](https://github.com/Epiled/monibank/assets/55258483/08fad58a-78ba-4dd4-9b89-915cf47bbea4)
 
